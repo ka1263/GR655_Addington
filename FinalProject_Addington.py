@@ -566,7 +566,7 @@ plt.close()
 
 
 
-#UPPER AIR PLOT (300mb U, V WIND vs ThetaE) -------------------------------------
+#UPPER AIR PLOT (300mb U, V WIND vs Geopotential height) -------------------------------------
 #gfs.select(name='U component of wind')
 #gfs.select(name='V component of wind')
 #gfs.select(name='Geopotential Height')
